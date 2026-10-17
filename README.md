@@ -209,3 +209,6 @@ The app is deployed on **Vercel** and connected to this repository. Every push t
 ## Credits
 
 Product data and images from [DummyJSON](https://dummyjson.com).
+## My Developer Portfolio
+
+[Visit My Portfolio](https://avvarma-portfolio.higgsfield.app)
